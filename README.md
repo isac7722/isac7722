@@ -13,5 +13,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isac7722&theme=default_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isac7722)](https://solved.ac/isac7722/)
+[![Solved.ac isac7722](http://mazassumnida.wtf/api/v2/generate_badge?boj=isac7722)](https://solved.ac/isac7722/)
 
